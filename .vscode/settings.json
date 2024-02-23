@@ -1,0 +1,5 @@
+{
+  "inference.model": "custom",
+  "inference.custom.model": "deepseek-coder:1.3b-base",
+  "inference.custom.format": "deepseek"
+}
